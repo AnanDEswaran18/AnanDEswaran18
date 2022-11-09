@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anandeswaran18" alt="anandeswaran18" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/anand eswaran" target="blank"><img src="https://img.shields.io/twitter/follow/anand eswaran?logo=twitter&style=for-the-badge" alt="anand eswaran" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **Portail Etudiant**
 
@@ -23,7 +23,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- <a href="https://twitter.com/anand eswaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anand eswaran" height="30" width="40" /></a> -->
 <a href="https://instagram.com/an.and.eswaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="an.and.eswaran" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/anand_e" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anand_e" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anandeswaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anandeswaran" height="30" width="40" /></a>
