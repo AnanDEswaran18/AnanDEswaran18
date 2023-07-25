@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on **Portail Etudiant**
 
-- 🌱 I’m currently learning **CSS, JavaScript**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 My portfolio [anandeswaran18.xyz](anandeswaran18.xyz)
 
-- 💬 Ask me about **Java, C, Python**
+- 💬 Ask me about **Javascript, Full stack**
 
 - 📫 How to reach me **bagavathianandhan002@gmail.com**
 
